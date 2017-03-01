@@ -33,9 +33,6 @@ def csvv(email):
 
 def main(id,passd):
     url = 'https://www.facebook.com'
-    chrome_options = webdriver.ChromeOptions()
-    prefs = {"profile.default_content_setting_values.notifications" : 2}
-    chrome_options.add_experimental_option("prefs",prefs)
     driver = webdriver.PhantomJS()
     driver.maximize_window()
     driver.get(url)
