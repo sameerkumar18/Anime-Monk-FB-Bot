@@ -103,7 +103,7 @@ def main(id,passd):
                 except:
                     print "unable to be approve"
         except:
-            print 'nhi hua'
+            print 'Unsuccessful'
 
     print '\n\n\n\n\n\nthis is second xDD'
 
@@ -153,7 +153,7 @@ def main(id,passd):
                 except:
                     print "unable to be approve"
         except:
-            print 'nhi hua'
+            print 'Unsuccessful'
 
     print '\n\n\n\n\n\nthis is third xDD'
 
@@ -203,7 +203,7 @@ def main(id,passd):
                 except:
                     print "unable to be approve"
         except:
-            print 'nhi hua'
+            print 'Unsuccessful'
 
     print '\n\n\n\n\n\nthis is fourth xDD'
             #4
@@ -250,7 +250,7 @@ def main(id,passd):
                 except:
                     print "unable to be approve"
         except:
-            print 'nhi hua'
+            print 'Unsuccessful'
 
 
 id = raw_input("Enter ID: ")
